@@ -1,4 +1,3 @@
-# Adventure-Works-Sales-Revenue-Dashboard
 # 📊 Adventure Works Sales & Revenue Dashboard
 
 ## 🚀 Project Overview  
