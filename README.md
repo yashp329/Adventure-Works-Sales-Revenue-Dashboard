@@ -24,7 +24,7 @@ This **Power BI dashboard** provides insights into **sales performance, revenue 
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Preview](https://github.com/yashp329/Adventure-Works-Sales-Revenue-Dashboard/blob/main/Power_BI_Top_Line_Report.jpg)]
+![Dashboard Preview](https://github.com/yashp329/Adventure-Works-Sales-Revenue-Dashboard/blob/main/Power_BI_Top_Line_Report.jpg)
 
 ---
 
